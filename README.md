@@ -14,3 +14,7 @@ Create a `conda` environment called `ExtrasolarGasGiants` and install all the ne
 Activate the `Rocky_Exoplanets` environment:
 
     $ conda activate Gas_Giants
+    
+### Step 4:
+Open Jupyter Notebook:
+    $ Jupyter notebook

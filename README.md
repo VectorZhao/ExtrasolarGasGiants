@@ -6,9 +6,9 @@ A meachine learning model to quickly and eﬃciently predict the interior struct
 
 ### Step 2:
 Download [`Anaconda`](https://www.anaconda.com/products/individual#Downloads) and install it on you machine.
-Create a `conda` environment called `Rocky_Exoplanets` and install all the necessary dependencies:
+Create a `conda` environment called `ExtrasolarGasGiants` and install all the necessary dependencies:
 
-    $ conda create -n Rocky_Exoplanets pip python jupyter tensorflow=1.15
+    $ conda create -n Gas_Giants pip python jupyter tensorflow=1.15
     
 ### Step 3:
 Activate the `Rocky_Exoplanets` environment:

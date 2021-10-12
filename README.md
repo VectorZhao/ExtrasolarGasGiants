@@ -17,4 +17,5 @@ Activate the `Rocky_Exoplanets` environment:
     
 ### Step 4:
 Open Jupyter Notebook:
+
     $ Jupyter notebook

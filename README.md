@@ -1,5 +1,5 @@
 # ExtrasolarGasGiants
-A meachine learning model to quickly and eﬃciently predict the interior structure of  extrasolar gas giants
+A meachine learning model to quickly and eﬃciently predict the interior properties of gas giant exoplanets with masses between 0.1 and 10 Jupiter masses.
 ## Quick Start
 ### Step 1:
 [Fork and clone](https://help.github.com/articles/fork-a-repo) a copy of the `Rocky_Exoplanets` repository on to your local machine.
